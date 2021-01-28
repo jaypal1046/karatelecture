@@ -28,9 +28,12 @@ dependencies:
   firebase_storage:
   cloud_firestore:
   # provider it provide the current
-  provider:
+
   #for handling google sign in
   google_sign_in: "^4.5.3"
+  cloud_functions:
+  
+
 
 
 
