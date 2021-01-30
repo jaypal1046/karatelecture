@@ -1,4 +1,0 @@
-enum OurViewState{
-  LOADING,
-  IDLE,
-}
